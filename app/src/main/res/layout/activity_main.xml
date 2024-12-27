@@ -84,7 +84,7 @@
                 android:text="⌫"
                 android:background="@drawable/button_operator_background"/>
 
-            <com.google.android.material.button.MaterialButton
+            <Button
                 android:id="@+id/btnPercent"
                 style="@style/CalculatorButton"
                 android:layout_columnWeight="1"
